@@ -1,0 +1,10 @@
+body{
+    padding-top: 70px;
+    padding-bottom: 70px; 
+    background: #333;
+    color: #Ffff 
+}
+
+#output {
+   display: none; 
+}
